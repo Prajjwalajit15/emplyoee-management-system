@@ -55,3 +55,14 @@ td{
     color: #858D9A;
     text-align: center;
 }
+.icon{
+    background-color: #35383E;
+    border-radius: 50%;
+    padding: 4px;
+    cursor: pointer;
+    margin: 0 4px;
+    transition: 0.4s;
+}
+.icon:hover{
+    transform: scale(1.02);
+}
